@@ -9,3 +9,5 @@ Other Required Materials - <a href= "https://drive.google.com/file/d/1XPsXxGzG3U
 Assignment01 - [Solutions](https://github.com/yuvrajsingh2805/1stSemITER/tree/main/Assignment01)
 
 Assignment02 - [Solutions](https://github.com/yuvrajsingh2805/1stSemITER/tree/main/Assignment02)
+
+Assignment03 - [Solutions](https://github.com/yuvrajsingh2805/1stSemITER/tree/main/Assignment03)
