@@ -14,7 +14,7 @@ public class Q06_ElectricityBill {
             System.out.println("Your bill is: " + bill);
         }
         else if (unit>=200 && unit<=400){
-            bill=(50*3)+(150*4.8)+((unit-150)*4.8);
+            bill=(50*3)+(150*4.8)+((unit-150)*5.8);
             System.out.println("Your bill is: " + bill);
         }
         else if (unit>=400) {
