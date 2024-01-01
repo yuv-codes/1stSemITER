@@ -1,5 +1,3 @@
-import org.w3c.dom.ls.LSOutput;
-
 import java.util.Scanner;
 public class Q10_GradeAssigner {
     public static void main(String[] args) {
