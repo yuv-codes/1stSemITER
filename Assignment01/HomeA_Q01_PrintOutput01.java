@@ -13,3 +13,8 @@ public class HomeA_Q01_PrintOutput01 {
 	}
 
 }
+// 2bc
+// 5bc
+// 5bc
+// bc5
+// bc23
