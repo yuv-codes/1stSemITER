@@ -3,7 +3,7 @@
 public class cmd_01 {
 
 	public static void main(String[] args) {
-		int num1 = Integer.parseInt(args[0]);
+	int num1 = Integer.parseInt(args[0]);
         int num2 = Integer.parseInt(args[1]);
         System.out.println("1st number: " + num1 + " & 2nd number: " + num2);
         float rem = num1/num2;
