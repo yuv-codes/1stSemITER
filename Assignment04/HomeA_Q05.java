@@ -11,6 +11,6 @@ public class HomeA_Q05 {
             System.out.println(j);
         }
         System.out.println();
-
+ 
     }
 }
