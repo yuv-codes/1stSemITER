@@ -13,3 +13,5 @@ Assignment02 - [Solutions](https://github.com/yuvrajsingh2805/1stSemITER/tree/ma
 Assignment03 - [Solutions](https://github.com/yuvrajsingh2805/1stSemITER/tree/main/Assignment03)
 
 Assignment04 - [Solutions](https://github.com/yuvrajsingh2805/1stSemITER/tree/main/Assignment04)
+
+Assignment05 - [Solutions](https://github.com/yuvrajsingh2805/1stSemITER/tree/main/Assignment05)
