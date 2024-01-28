@@ -11,16 +11,19 @@ public class HomeA_Q05 {
         String Lname = sc.next();
         System.out.print("Age: ");
         int age = sc.nextInt();
-        if (gender == 'm'){
+        if (gender == 'm' && age >= 21){
             System.out.println("Then I shall call you Mr. " + Fname + Lname);
+        }
+        else {
+            System.out.println("Then I shall call you " + Fname + Lname);
         }
         if (gender == 'f'){
             System.out.print("Are you married, " + Fname + " (y or n): ");
         }
         char marraige = sc.next().charAt(0);
-        if (gender == 'f' && marraige == 'y'){
+        if (gender == 'f' && marraige == 'y' && age >= 21){
             System.out.println("Then I shall call you Mrs. " + Fname +" " + Lname);
-        }else {
+        }if(gender == 'f' && marraige == 'n'){
             System.out.println("Then I shall call you Ms. " + Fname +" " + Lname);
         }
     }
