@@ -15,6 +15,6 @@ public class Q10_AreaCalculation {
         System.out.println("Area of triangle is: " + area(5,10));
         System.out.println("Area of square is: " + area(5.1));
         System.out.println("Area of circle is: " + area(4));
-        System.out.println("Area of rectangle is: " + area(1.5,5.8));
+        System.out.println("Area of rectangle is: " + area(1.5,5.8)); 
     }
 }
